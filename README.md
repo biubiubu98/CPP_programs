@@ -9,7 +9,7 @@
 ## 文章项目链接：
 
 ## 0-100行的代码
-1.[用C++实现在控制台输出红色爱心](https://blog.csdn.net/m0_53061304/article/details/129961707) 
+1. [用C++实现在控制台输出红色爱心](https://blog.csdn.net/m0_53061304/article/details/129961707) 
 2. [C++贪吃蛇](https://blog.csdn.net/m0_53061304/article/details/119761241)
 3. [C++彩色星空](https://blog.csdn.net/m0_53061304/article/details/130408604?spm=1001.2014.3001.5501)
 4. [剪刀石头布](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247484900&idx=2&sn=d69d5c446933256e5283716a66930467&chksm=cf51c17ff826486965d7997a203958da997f810cc28f0bf5045599ecb44afdd1b606f22bea21&token=1156806420&lang=zh_CN#rd)
