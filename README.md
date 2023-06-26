@@ -2,6 +2,18 @@
 
 **持续更新ing...**
 [C/C++ 学习文章](https://blog.csdn.net/m0_53061304/article/details/130640258?spm=1001.2014.3001.5501)
+
+## C++提高篇：
+**类和对象**：
+1.  [C++ 提高篇：封装的意义](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247485274&idx=1&sn=5b7157dca10ad1a6bf52e732211902a1&chksm=cf51c3c1f8264ad75e6b7a1e84b57a74a8dbd2e40534b3ffb56f4978147f7c8469bed685f709&scene=178&cur_album_id=2903570061062569987#rd)
+2. [C++ 提高篇 : struct和class区别](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247485319&idx=1&sn=8d98169361c70dbea7fd80a83d117cc4&chksm=cf51c31cf8264a0a99d8f174787e8b4110860b9448c873361d4d3582ce6fa4a9ea7fc2074c3b&token=1841266144&lang=zh_CN#rd)
+3. [C++提高篇：成员属性设置为私有的优势和使用方法](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247485342&idx=1&sn=59f6caff0042e695ae1dea6de9784017&chksm=cf51c305f8264a13f6015529a649b1852e4e089c89224673d950e41ea938a2ccb5fd163e4a3c&token=1841266144&lang=zh_CN#rd)
+
+**对象的初始化和清理：**
+1. [C++提高篇：构造函数和析构函数](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247485386&idx=1&sn=d0562a4a80a784ce84da53d334308dfc&chksm=cf51c351f8264a476c64f1584611b6c21d61dfce823477a5889a598407261c292c4cf635c52a&token=1841266144&lang=zh_CN#rd)
+2. [C++提高篇：构造函数的分类及调用](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247485420&idx=1&sn=47265f9b3fa7f2eca0d52e2324d8603a&chksm=cf51c377f8264a61df58ded0a848d394eb89f582348db84b7ba54bc7b0533005f4301651d6ba&token=244841572&lang=zh_CN#rd)
+3. [C++ 提高篇 : 拷贝构造函数调用](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247485448&idx=1&sn=4eb964b5a06168bad03220611bb352cf&chksm=cf51cc93f82645850afb0d7a688f71a77599633bf1aec95fcdb5008f1c2c2084a1fcfebb8c4c&token=177424284&lang=zh_CN#rd)
+
 ## 文章项目链接：
 
 ## 0-100行的代码
