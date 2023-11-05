@@ -1,5 +1,4 @@
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2f65187f355e493fa53f0648f1199581.png)
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/309148b841a744478d15f70b585a8946.png)
 
 
 
@@ -47,6 +46,7 @@
 |[DFS随机生成迷宫](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247485086&idx=2&sn=a8cfe7a829219c754689dc6f4824e18d&chksm=cf51c205f8264b1394087ec87d828dfd237adc2cbba5b856b8c703259ea8d0c2218b78575b8c&token=1152235140&lang=zh_CN#rd)|DFS算法，经典问题|提高|
 |[绘制毕达哥拉斯树](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247485386&idx=2&sn=5a60cf591f3645e35adb359ee605a559&chksm=cf51c351f8264a4733504e436882f920d05bb5624bcca919b3b7a1039d136884530651326a1a&token=1841266144&lang=zh_CN#rd)|递归算法，很有意思|提高|
 |[可视化冒泡排序算法及其优化](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&mid=2247485952&idx=1&sn=ed49d2c047b3604249ca09dd75f09b6a&chksm=cf51ce9bf826478d49247ded4b27f5378b82c5f817e88f796f9f8125c37174711aaff06f49e0&token=341518972&lang=zh_CN#rd)|实现可视化冒泡排序|基本|
+|[递归回溯求解数独](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg0MTA3Ng==&tempkey=MTI0Ml9qdUl6SkpIcm1SbEVRajg1d2dZNWhqZi1CMlFjSHkxdWFWR1lKZXQxS2lQQm52QjlQTVhUdDk5aUYzUjFOVDNITnQ1d3c2RWJOMzJDV3RPUDNGbEVTZV9qSGREajJieHFlNnpQWVhVc0hXRnlvcDdPN2g5ZnhqM3hEX1B1d21XZXdtSmRDb1ZXRHJoTFpsTmx1MFl4Z2xYVHFZV0VOSTlmb1d5eGFRfn4=&chksm=cf51c992f8264084bd53c3426f4979e85f8cd1397abf5e279ddbdff4457c1482bf38f6789130&token=514572423&lang=zh_CN#rd)|使用递归回溯算法来求解数独|提高|
 
 ## 人工智能：
 |项目名称和链接| 简介 |难度|
